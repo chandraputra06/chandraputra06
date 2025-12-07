@@ -1,4 +1,5 @@
-## Hi there 👋
+## Chandra Putra | Aspiring Backend & Fullstack Developer ⚡
+
 
 <!--
 **chandraputra06/chandraputra06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Chandra Putra](img/HEADERR%20LINKEDINN%20(1).png)
+
+- 🎓 I'm a **Computer Science** student at **Udayana University**, focusing on Web Development  
+- 💻 Currently learning **Laravel and React** to build modern web applications
