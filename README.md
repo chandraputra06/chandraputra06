@@ -30,12 +30,5 @@ Here are some ideas to get you started:
 ![https://www.instagram.com/chandrputraaa](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/putu-chandra-putra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/chandraputra06](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-### My GitHub Stats!
-
-![Chandra Putra's GitHub stats](https://github-readme-stats-sage-six-40.vercel.app/api?username=chandraputra06&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=chandraputra06&layout=compact&theme=radical)
-
-
 ### Play Games With Me🚀
 <img src="https://raw.githubusercontent.com/chandraputra06/chandraputra06/output/snake.svg" alt="Snake animation" />
